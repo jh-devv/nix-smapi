@@ -1,0 +1,13 @@
+"compatibilitytools"
+{
+  "compat_tools"
+  {
+    "sdv-smapi-native" // Internal name of this tool
+    {
+      "install_path" "."
+      "display_name" "Stardew Valley + SMAPI (Native)"
+      "from_oslist"  "linux"
+      "to_oslist"    "linux"
+    }
+  }
+}
